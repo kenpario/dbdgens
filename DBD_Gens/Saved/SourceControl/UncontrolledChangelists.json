@@ -7,10 +7,16 @@
 			"files": [
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/Generator/Generator.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E5/A02CPQ68HWPN810L5H76UL.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MN/IE51G2NCJ0BTOFBP3T4BL3.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/Generator/Interact_UI.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/Generator/Repairing_UI.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/E5/A02CPQ68HWPN810L5H76UL.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
@@ -29,10 +35,7 @@
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
 				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
-				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
-				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MN/IE51G2NCJ0BTOFBP3T4BL3.uasset",
-				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/Generator/Interact_UI.uasset"
+				"D:/Unreal Engine Games/DBD_Gens/dbdgens/DBD_Gens/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
 			]
 		}
 	]
