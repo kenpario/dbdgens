@@ -1,2 +1,12 @@
 # dbdgens
 Unreal Engine 5 Dead by Daylight repairing generators project.
+
+Inspiration: Dead By Daylight generator repairing system, but without the skill cheks and animations ( I do not know how to animate yet ).
+
+Video preview : https://vimeo.com/957115410
+
+Key used for respawing : "E" As it is shown by the Interaction UI.
+
+Made only with blueprints, easily readable with comments everywhere and specific variable and function names.
+Everything created or modified is found in /All/Game/Generator and /All/Game/ThirdPerson/Blueprints.
+
