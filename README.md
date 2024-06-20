@@ -3,7 +3,7 @@ Unreal Engine 5 Dead by Daylight repairing generators project.
 
 Inspiration: Dead By Daylight generator repairing system, but without the skill cheks and animations ( I do not know how to animate yet ).
 
-Video preview : https://vimeo.com/957115410
+Video preview : https://vimeo.com/963217849
 
 Key used for respawing : "E" As it is shown by the Interaction UI.
 
