@@ -1,7 +1,7 @@
 # dbdgens
 Unreal Engine 5 Dead by Daylight repairing generators project.
 
-Inspiration: Dead By Daylight generator repairing system, but without the skill cheks and animations ( I do not know how to animate yet ).
+Inspiration: Dead By Daylight generator repairing system, but without the skill checks and animations ( I do not know how to animate yet ).
 
 Video preview : https://vimeo.com/963217849
 
